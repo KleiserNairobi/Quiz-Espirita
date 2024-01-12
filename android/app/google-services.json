@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391796157273",
+    "project_id": "quizespirita-f058a",
+    "storage_bucket": "quizespirita-f058a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391796157273:android:43cf9808fac9d0e9293a48",
+        "android_client_info": {
+          "package_name": "com.quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOc3ULjqv-9dVKu7aOQyfcXNiDlCm48bI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
