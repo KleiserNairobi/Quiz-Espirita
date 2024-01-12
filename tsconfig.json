@@ -1,0 +1,20 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    "jsx": "react",
+    "strict": true,
+    "baseUrl": "./",
+    "types": ["react-native", "@types/styled-components-react-native"],
+    "paths": {
+      "@assets/*": ["./src/assets/*"],
+      "@components/*": ["./src/components/*"],
+      "@models/*": ["./src/models/*"],
+      "@pages/*": ["./src/pages/*"],
+      "@providers/*": ["./src/providers/*"],
+      "@quizes/*": ["./src/quizes/*"],
+      "@routes/*": ["./src/routes/*"],
+      "@themes/*": ["./src/themes/*"],
+      "@utils/*": ["./src/utils/*"]
+    }
+  }
+}
