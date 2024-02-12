@@ -92,4 +92,13 @@ export const Subcategories: Subcategory[] = [
       sub.LIV_ID_BRASIL_CORACAO_MUNDO,
     )} questões`,
   },
+  {
+    id: sub.ESP_ID_MEIMEI,
+    idCategory: cat.ID_ESPIRITOS,
+    title: 'Meimei',
+    subtitle: `${getQuestionCount(
+      cat.ID_ESPIRITOS,
+      sub.ESP_ID_MEIMEI,
+    )} questões`,
+  },
 ];

@@ -2437,6 +2437,470 @@ export const Quizes = [
       },
     ],
   },
+
+  {
+    id: 'QUIZ-ESP0001',
+    idCategory: cat.ID_ESPIRITOS,
+    idSubcategory: sub.ESP_ID_MEIMEI,
+    questions: [
+      {
+        title: "Qual era o verdadeiro nome de Meimei antes de seu apelido espiritual ser adotado?",
+        alternatives: ["Mariana", "Blandina", "Maria", "Irma"],
+        correct: 3
+      },
+        {
+          title: "Quantas reencarnações de Meimei são conhecidas?",
+          alternatives: [
+            "1",
+            "2",
+            "3",
+            "4",
+          ],
+          correct: 1,
+        },
+        {
+          title: "Qual o nome da reencarnação de Meimei no século VIII a.C?",
+          alternatives: [
+            "Blandina",
+            "Mabi",
+            "Joana d'Arc",
+            "Maria Madalena",
+          ],
+          correct: 1,
+        },
+      
+      
+        {
+          title: "Quando o apelido 'Meimei' começou a ser usado de forma pública?",
+          alternatives: [
+            "Durante o casamento de Arnaldo Rocha e Irma de Castro Rocha.",
+            "Após o desencarne de Irma de Castro Rocha.",
+            "No nascimento do primeiro filho do casal.",
+            "No aniversário de 50 anos de casamento do casal."
+          ],
+          correct: 1
+        },
+        {
+          title: "Onde Irma de Castro Rocha nasceu?",
+          alternatives: [
+            "Belo Horizonte, Minas Gerais",
+            "Itaúna, Minas Gerais",
+            "Mateus Leme, Minas Gerais",
+            "Goiânia, Goiás"
+          ],
+          correct: 2
+        },
+        {
+          title: "Qual era a profissão do pai de Irma de Castro Rocha?",
+          alternatives: [
+            "Agente ferroviário",
+            "Professor",
+            "Médico",
+            "Agricultor"
+          ],
+          correct: 0
+        },
+        {
+          title: "Quantos irmãos Irma de Castro Rocha tinha?",
+          alternatives: ["2", "3", "4", "5"],
+          correct: 2
+        },
+        {
+          title: "Qual doença Irma de Castro Rocha sofria desde a infância?",
+          alternatives: [
+            "Nefrite crônica",
+            "Anemia",
+            "Tuberculose",
+            "Reumatismo"
+          ],
+          correct: 0
+        },
+        {
+          title: "Com quantos anos Irma de Castro Rocha se mudou para Belo Horizonte?",
+          alternatives: ["17 anos", "20 anos", "25 anos", "30 anos"],
+          correct: 1
+        },
+          {
+          title: "Qual era a profissão de Meimei?",
+          alternatives: [
+            "Advogada",
+            "Médica",
+            "Professora",
+            "Jornalista",
+          ],
+          correct: 2,
+        },
+        {
+          title: "Onde Irma de Castro Rocha conheceu Arnaldo Rocha?",
+          alternatives: [
+            "Em Itaúna, Minas Gerais",
+            "Em Mateus Leme, Minas Gerais",
+            "Em Goiânia, Goiás",
+            "Em Belo Horizonte, Minas Gerais"
+          ],
+          correct: 3
+        },
+        {
+          title: "Qual foi a data do casamento de Irma de Castro Rocha e Arnaldo Rocha?",
+          alternatives: [
+            "10 de junho de 1940",
+            "10 de junho de 1941",
+            "10 de junho de 1942",
+            "10 de junho de 1943"
+          ],
+          correct: 2
+        },
+        {
+          title: "Qual foi o gesto de generosidade que Irma de Castro Rocha fez ao sair da igreja após o casamento?",
+          alternatives: [
+            "Deu esmolas para todos os pedintes que encontrou",
+            "Doou seu vestido de noiva para uma instituição de caridade",
+            "Deu o buquê de flores para um mendigo",
+            "Distribuiu doces para as crianças que estavam presentes"
+          ],
+          correct: 2
+        },
+        {
+          title: "Qual era a cor dos cabelos de Irma de Castro Rocha?",
+          alternatives: ["Loira", "Ruiva", "Morena clara", "Negra"],
+          correct: 2
+        },
+        {
+          title: "Qual foi a origem do apelido 'Meimei'?",
+          alternatives: [
+            "Era o nome de solteira da esposa de Arnaldo Rocha.",
+            "O casal o encontrou em um livro do escritor sino-americano Lin Yutang.",
+            "Era o nome da irmã de Arnaldo Rocha.",
+            "O casal o inventou como forma de homenagear a cidade de Goiânia."
+          ],
+          correct: 1
+        },
+        {
+          title: "Qual o significado do apelido 'Meimei'?",
+          alternatives: [
+            '"Esperança"',
+            '"Amizade"',
+            '"Noiva Querida" ou "A Bem-Amada"',
+            '"Força"'
+          ],
+          correct: 2
+        },
+        {
+          title: "Quem preferiu adaptar o significado do apelido 'Meimei' para 'Amor Puro'?",
+          alternatives: [
+            "Arnaldo Rocha",
+            "Irma de Castro Rocha",
+            "A irmã Ruth",
+            "Lin Yutang"
+          ],
+          correct: 2
+        },
+      
+        {
+          title: "Como Irma de Castro Rocha se referia a Arnaldo Rocha após o seu desencarne?",
+          alternatives: [
+            '"Meu Amor"',
+            '"Meu Esposo"',
+            '"Meu Companheiro"',
+            '"Meu Meimei"'
+          ],
+          correct: 3
+        },
+        {
+          title: "Qual o nome do livro do escritor sino-americano Lin Yutang que mencionou o apelido 'Meimei'?",
+          alternatives: [
+            '"O Amor nos Tempos do Cólera"',
+            '"Cem Anos de Solidão"',
+            '"Momentos de Pequim"',
+            '"O Pequeno Príncipe"'
+          ],
+          correct: 2
+        },
+        {
+          title: "Qual era a religião em que Irma de Castro Rocha foi criada?",
+          alternatives: ["Espiritismo", "Catolicismo", "Protestantismo", "Judaísmo"],
+          correct: 1
+        },
+        {
+          title: "Qual era a principal característica da mediunidade de Meimei?",
+          alternatives: ["Clarividência", "Clariaudiência", "Psicografia", "Telecinese"],
+          correct: 0
+        },
+        {
+          title: "Qual era a reação de Arnaldo Rocha quando Meimei demonstrava sua mediunidade?",
+          alternatives: [
+            "Ele ficava feliz e a incentivava.",
+            "Ele ficava com medo e tentava evitar o assunto.",
+            "Ele não se importava e ignorava.",
+            "Ele ficava bravo e a repreendia."
+          ],
+          correct: 1
+        },
+        {
+          title: "Segundo Chico Xavier, qual era a relação entre Meimei e Arnaldo Rocha antes de se casarem?",
+          alternatives: ["Eles eram amigos.", "Eles eram inimigos.", "Eles eram irmãos.", "Eles eram pai e filha."],
+          correct: 0
+        },
+        {
+          title: "Qual era o nome do general que salvou a princesa Mabi, segundo relato de Meimei?",
+          alternatives: ["Beb Alib", "Taciano Varro", "Camilo Rodrigues Chaves", "Emmanuel"],
+          correct: 0
+        },
+        {
+          title: "Em qual livro Chico Xavier confirma a história de Beb Alib e Mabi, contada por Meimei?",
+          alternatives: ["Ave, Cristo!", "Semíramis", "O Evangelho Segundo o Espiritismo", "O Livro dos Espíritos"],
+          correct: 1
+        },
+        {
+          title: "Qual era o nome da personagem em 'Ave, Cristo!' que era filha de Taciano Varro e reencontrou Arnaldo Rocha?",
+          alternatives: ["Meimei", "Blandina", "Mabi", "Beb Alib"],
+          correct: 1
+        },
+        {
+          title: "Qual era o objetivo do reencontro entre Blandina e Taciano Varro?",
+          alternatives: ["Amor romântico.", "Evolução espiritual.", "Vingança.", "Amizade."],
+          correct: 1
+        },
+        {
+          title: "O que Arnaldo Rocha fez quando Chico Xavier lhe deu um capítulo de 'Ave, Cristo!' para ler?",
+          alternatives: [
+            "Ele leu em voz alta para Meimei.",
+            "Ele guardou o capítulo para ler depois.",
+            "Ele devolveu o capítulo para Chico Xavier.",
+            "Ele chorou enquanto lia."
+          ],
+          correct: 3
+        },
+        {
+          title: "Qual foi a doença que levou Meimei ao desencarne?",
+          alternatives: ["Câncer", "Tuberculose", "Nefrite", "AVC"],
+          correct: 2
+        },
+        {
+          title: "Que complicações a nefrite causou em Meimei?",
+          alternatives: [
+            "Perda de audição",
+            "Perda de visão",
+            "Perda de memória",
+            "Perda de movimentos"
+          ],
+          correct: 1
+        },
+        {
+          title: "Quem Meimei dizia que a visitava em seus últimos dias?",
+          alternatives: [
+            "Sua mãe",
+            "Sua avó Mariana",
+            "Sua irmã",
+            "Sua amiga"
+          ],
+          correct: 1
+        },
+        {
+          title: "Qual livro de Chico Xavier confirma a presença de Meimei no Mundo Espiritual?",
+          alternatives: [
+            "Ave, Cristo!",
+            "Nosso Lar",
+            "Entre a Terra e o Céu",
+            "O Evangelho Segundo o Espiritismo"
+          ],
+          correct: 2
+        },
+        {
+          title: "Qual era o nome de Meimei no Mundo Espiritual?",
+          alternatives: ["Mariana", "Blandina", "Maria", "Irma"],
+          correct: 1
+        },
+          {
+          title: "Qual o livro que narra a história de Blandina?",
+          alternatives: [
+            "O Evangelho Segundo o Espiritismo",
+            "Nosso Lar",
+            "Ave, Cristo!",
+            "Pai Nosso",
+          ],
+          correct: 2,
+        },  
+          {
+          title: "Qual o nome da reencarnação de Arnaldo Rocha que foi pai de Blandina?",
+          alternatives: [
+            "Beb Alib",
+            "Taciano Varro",
+            "Jesus Cristo",
+            "Emmanuel",
+          ],
+          correct: 1,
+        },
+      
+        {
+          title: "Quem salvou Mabi de um leão?",
+          alternatives: [
+            "Jesus Cristo",
+            "Bezerra de Menezes",
+            "Beb Alib",
+            "Emmanuel",
+          ],
+          correct: 2,
+        },
+      
+        
+        
+        {
+          title: "Onde Meimei vivia no Mundo Espiritual?",
+          alternatives: [
+            "No Lar da Bênção",
+            "Na Colônia do Amanhecer",
+            "Na Cidade Astral",
+            "No Nosso Lar"
+          ],
+          correct: 0
+        },
+        {
+          title: "Qual era a função de Meimei no Lar da Bênção?",
+          alternatives: [
+            "Cuidar de crianças",
+            "Ensinar crianças",
+            "Curar doentes",
+            "Administrar o Lar"
+          ],
+          correct: 0
+        },
+      
+        {
+          title: "Qual foi a causa imediata do desencarne de Meimei?",
+          alternatives: [
+            "Edema agudo de pulmão",
+            "Infarto",
+            "AVC",
+            "Hemorragia"
+          ],
+          correct: 0
+        },
+        {
+          title: "Quantos anos Meimei tinha quando desencarnou?",
+          alternatives: ["24", "30", "40", "50"],
+          correct: 0
+        },
+          {
+          title: "Quem era o 'consorte amado' que Meimei mencionava em suas visões?",
+          alternatives: [
+            "Arnaldo Rocha",
+            "Chico Xavier",
+            "André Luiz",
+            "Emmanuel"
+          ],
+          correct: 0
+        },
+        {
+          title: "Qual foi o nome dado ao centro espírita fundado por Arnaldo Rocha?",
+          alternatives: [
+            "Centro Espírita Xavier",
+            "Centro Espírita Mineiro",
+            "Centro Espírita Meimei",
+            "Centro Espírita Allan Kardec"
+          ],
+          correct: 2
+        },
+        
+        
+        {
+          title: "Qual livro não foi escrito em parceria com Chico Xavier?",
+          alternatives: [
+            "Meditações Diárias",
+            "Pai Nosso",
+            "Evangelho no Lar para crianças de 8 a 80 anos",
+            "O Evangelho Segundo o Espiritismo",
+          ],
+          correct: 3,
+        },
+        {
+          title: "Qual o tema principal de 'Meditações Diárias'?",
+          alternatives: [
+            "Poemas e contos sobre a natureza",
+            "Reflexões para uma vida mais feliz",
+            "Ensinamentos do Cristo para as crianças",
+            "Orientações para a prática do Evangelho em família",
+          ],
+          correct: 1,
+        },
+        {
+          title: "Qual livro é considerado um clássico da literatura infantil espírita?",
+          alternatives: [
+            "Meditações Diárias",
+            "Pai Nosso",
+            "Evangelho no Lar para crianças de 8 a 80 anos",
+            "O Livro dos Espíritos",
+          ],
+          correct: 2,
+        },
+        {
+          title: "Quem psicografou o livro 'Evangelho no Lar para crianças de 8 a 80 anos'?",
+          alternatives: [
+            "Chico Xavier",
+            "Bezerra de Menezes",
+            "Miltes Carvalho Bonna",
+            "Meimei",
+          ],
+          correct: 2,
+        },
+        {
+          title: "Qual a principal mensagem que Meimei transmite em seus livros?",
+          alternatives: [
+            "A importância da caridade e do amor ao próximo",
+            "A necessidade da reencarnação para o progresso espiritual",
+            "A força da oração e da fé em Deus",
+            "Todas as alternativas acima",
+          ],
+          correct: 3,
+        },  
+      
+        {
+          title: "Qual era o grande desejo de Meimei que não se concretizou?",
+          alternatives: [
+            "Ser médica",
+            "Ser escritora",
+            "Ser mãe",
+            "Ser pintora",
+          ],
+          correct: 2,
+        },
+        {
+          title: "Como Meimei continua seu trabalho com as crianças após o desencarne?",
+          alternatives: [
+            "Através de psicografias",
+            "Através de aparições",
+            "Através de sonhos",
+            "Todas as alternativas acima",
+          ],
+          correct: 3,
+        },
+        {
+          title: "Qual o principal objetivo de Meimei em seu trabalho com as crianças?",
+          alternatives: [
+            "Ensinar matemática",
+            "Ensinar história",
+            "Ensinar valores como o amor e a compaixão",
+            "Ensinar física",
+          ],
+          correct: 2,
+        },
+        {
+          title: "Qual o livro mais famoso de Meimei direcionado ao público infantil?",
+          alternatives: [
+            "Pai Nosso",
+            "O Evangelho Segundo o Espiritismo",
+            "Evangelho no Lar para crianças de 8 a 80 anos",
+            "Meditações Diárias",
+          ],
+          correct: 0,
+        } 
+      
+
+    ],
+  },
+
+
+
   {
     id: 'QUIZ-LIV0001',
     idCategory: cat.ID_LIVROS,
